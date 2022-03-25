@@ -37,6 +37,7 @@
 |php|50%|
 |html|99%|
 |css|70%|
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=sdev15&count_private=true&show_icons=true&theme=radical">
 
 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
