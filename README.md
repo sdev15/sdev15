@@ -1,4 +1,5 @@
 <h1 id='sdev'>Welcome to S dev GITHUB  </h1>
+<img src='https://komarev.com/ghpvc/?username=sdev15' >
  <h1 stylesheet=> About me <img src='https://media.discordapp.net/attachments/944525707579637760/956952790121451660/ss.png?width=370&height=413' height='20px' width='20px'></h1>
  
   * My Name : Sohaib
@@ -28,7 +29,7 @@
 * Adobe Illistratur <img src='https://media.discordapp.net/attachments/944525707579637760/956950415151349770/icons8-adobe-illustrator-480.png?width=413&height=413' height='30px' width='30px'> 
 # Contact
 * [**DISCORD**](https://discord.gg/fcNkaPgZjS)
-[click me to go up](#sdev)
+
 
 | language | Expérience|
 |-----|----|
@@ -36,3 +37,10 @@
 |php|50%|
 |html|99%|
 |css|70%|
+
+🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sdev15&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+
+* [click me to go up](#sdev)
