@@ -16,7 +16,7 @@
 #  Tools & Developing 
 ## language
 * js <img src='https://media.discordapp.net/attachments/944525707579637760/956950415944089640/613b64fe30e8530004ba3a03.png' height='20px' width='20px'>
-* php <img src='https://media.discordapp.net/attachments/944525707579637760/956950414333476884/58481791cef1014c0b5e4994.png?width=783&height=413' height='20px' width='20px'>
+* php <img src='https://media.discordapp.net/attachments/944525707579637760/956950414333476884/58481791cef1014c0b5e4994.png?width=783&height=413' height='20px' width='40px'>
     
     ## Other language & Tools
 * html <img src='https://media.discordapp.net/attachments/944525707579637760/956950416174747708/5847f5bdcef1014c0b5e489c.png' height='20px' width='20px'>
