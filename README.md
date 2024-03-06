@@ -3,14 +3,14 @@
  <h1 stylesheet=> About me <img src='https://media.discordapp.net/attachments/944525707579637760/956952790121451660/ss.png?width=370&height=413' height='20px' width='20px'></h1>
  
   * My Name : Sohaib
-  * My Age : 17 Y.O
+  * My Age : 18 Y.O
   * My country : Algeria <img src='https://media.discordapp.net/attachments/944525707579637760/956953540973174784/algeria.png?width=413&height=413' height='20px' width='20px'>
   * Job : Developer Designer
  <h1>Discord</h1>
  
 * **status**
-* [**Discord server**](https://discord.gg/fcNkaPgZjS)
-<img src='https://discord.c99.nl/widget/theme-5/728160309793259591.png'>
+* [**Discord server**](https://discord.gg/sdev)
+<img src='[https://discord.c99.nl/widget/theme-5/728160309793259591.png](https://discord.c99.nl/widget/theme-5/728160309793259591.png)'>
  
  
 #  Tools & Developing 
