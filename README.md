@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My github</h1>
 <h3 align="center">Im sohaib or inje</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdev15&label=Profile%20views&color=0e6cb4&style=flat-square" alt="amir-78" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdev15&label=Profile%20views&color=0e6cb4&style=flat-square" alt="dev15" /> </p>
 
 
 
@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdev15&show_icons=true&theme=dark&locale=en&layout=compact" alt="sdev15" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sdev15&show_icons=true&theme=dark&locale=en" alt="amir-78" /></p><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sdev15&show_icons=true&theme=dark&locale=en" alt="dev15" /></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sdev15&theme=dark" alt="amir-78" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sdev15&theme=dark" alt="dev15" /></p>
